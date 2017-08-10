@@ -3,8 +3,25 @@ html {
     font-family: Helvetica;
 }
 
-#broadwaytitle {
+h1 {
     font-size: 70px;
     font-weight: bold;
     color: white;
+}
+
+#broadwaytitle {
+    background-image: url('../img/the-flatiron-building.png');
+}
+
+ul {
+    list-style: none;
+    font-size: 18px;
+    color: white;
+}
+
+#downbar {
+    background-color: dimgray;
+    text-align: left;
+    color: white;
+    font-size: 11px;
 }
