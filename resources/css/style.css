@@ -1,0 +1,10 @@
+html {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#broadwaytitle {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
