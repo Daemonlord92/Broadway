@@ -6,11 +6,11 @@ html {
 h1 {
     font-size: 70px;
     font-weight: bold;
-    color: white;
 }
 
 #broadwaytitle {
     background-image: url('../img/the-flatiron-building.png');
+    color: white;
 }
 
 ul {
@@ -24,4 +24,13 @@ ul {
     text-align: left;
     color: white;
     font-size: 11px;
+}
+
+p {
+    font-size: 14px;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: bold;
 }
